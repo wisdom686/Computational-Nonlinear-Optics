@@ -44,7 +44,7 @@ Numerical reproduction of the "Quantum Walk Comb" spectral locking dynamics.
 *Ref: Heckelmann et al., Science 382, 434-438 (2023).*
 
 ![QCL Spectrum](assets/RF_Detuned_QCL.png)
-*Fig 3. Spectral density map showing the transition regimes under RF injection.*
+*Fig 3. 2D spectral map as a function of the modulation detuning and frequency.*
 
 ---
 
