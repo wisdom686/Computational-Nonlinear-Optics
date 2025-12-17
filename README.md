@@ -22,8 +22,6 @@ This project focuses on the high-performance numerical implementation of mean-fi
 ---
 
 ## 📊 Visualizations & Results
-*(Corresponds to the "soliton trajectories and intracavity field evolution" mentioned in SOP)*
-
 ### 1. Dissipative Kerr Soliton (DKS) Formation
 Simulation of the intracavity field evolution across different detuning regimes.
 *Implemented using the open-source [pyCORe](https://github.com/ElKosto/PyCORe) framework.*
